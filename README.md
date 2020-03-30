@@ -15,4 +15,4 @@ Predict clusters using cryptocurrencies data using the K-means algorithm form sk
 Create some plots and data tables to present your results.  
 
 # Challenge Summary
-The full challenge and analysis summary can be found in the "Challenge.ipynb" file in the root directory of this repository.
+The completed challenge can be found in the "Challenge.ipynb" file in the root directory of this repository.
